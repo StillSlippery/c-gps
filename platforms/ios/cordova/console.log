@@ -1,0 +1,107 @@
+
+2014-10-21 22:36:41.539 C-GPS test[29557:955058] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Data/Application/E2B3F3E6-2755-4CCA-A25E-0CD6EB810431/Library/Cookies/Cookies.binarycookies
+2014-10-21 22:36:41.659 C-GPS test[29557:955058] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 22:36:41.659 C-GPS test[29557:955058] Multi-tasking -> Device: YES, App: YES
+2014-10-21 22:36:41.664 C-GPS test[29557:955058] Unlimited access to network resources
+2014-10-21 22:36:41.667 C-GPS test[29557:955058] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 22:36:41.924 C-GPS test[29557:955058] Resetting plugins due to page load.
+2014-10-21 22:36:41.982 C-GPS test[29557:955058] Finished load of: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Bundle/Application/D76F21D0-3450-4A68-BF8B-F8D02B4A3162/C-GPS%20test.app/www/index.html
+2014-10-21 22:37:15.417 C-GPS test[29634:955675] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Data/Application/E4F66448-4099-4D2E-8244-5BF9B91784C2/Library/Cookies/Cookies.binarycookies
+2014-10-21 22:37:15.652 C-GPS test[29634:955675] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 22:37:15.652 C-GPS test[29634:955675] Multi-tasking -> Device: YES, App: YES
+2014-10-21 22:37:15.657 C-GPS test[29634:955675] Unlimited access to network resources
+2014-10-21 22:37:15.662 C-GPS test[29634:955675] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 22:37:16.024 C-GPS test[29634:955675] Resetting plugins due to page load.
+2014-10-21 22:37:16.076 C-GPS test[29634:955675] Finished load of: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Bundle/Application/12C5A6A7-9425-4994-996D-856670C91D2A/C-GPS%20test.app/www/index.html
+2014-10-21 22:42:13.097 C-GPS test[29738:958799] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Data/Application/E1EBD25E-DF9A-4968-80E5-D3D44B281BF8/Library/Cookies/Cookies.binarycookies
+2014-10-21 22:42:13.349 C-GPS test[29738:958799] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 22:42:13.350 C-GPS test[29738:958799] Multi-tasking -> Device: YES, App: YES
+2014-10-21 22:42:13.355 C-GPS test[29738:958799] Unlimited access to network resources
+2014-10-21 22:42:13.366 C-GPS test[29738:958799] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 22:42:13.917 C-GPS test[29738:958799] Resetting plugins due to page load.
+2014-10-21 22:42:14.035 C-GPS test[29738:958799] Finished load of: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Bundle/Application/F524C8A9-38D5-4F01-AC41-511AE2B3AC4A/C-GPS%20test.app/www/index.html
+2014-10-21 22:44:59.096 C-GPS test[29811:960512] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Data/Application/A189F72C-6C74-4A6F-B189-540D593D209A/Library/Cookies/Cookies.binarycookies
+2014-10-21 22:44:59.203 C-GPS test[29811:960512] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 22:44:59.204 C-GPS test[29811:960512] Multi-tasking -> Device: YES, App: YES
+2014-10-21 22:44:59.208 C-GPS test[29811:960512] Unlimited access to network resources
+2014-10-21 22:44:59.218 C-GPS test[29811:960512] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 22:44:59.489 C-GPS test[29811:960512] Resetting plugins due to page load.
+2014-10-21 22:44:59.536 C-GPS test[29811:960512] Finished load of: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Bundle/Application/9BE82043-89FE-4ECF-8428-69EEB25C3EED/C-GPS%20test.app/www/index.html
+2014-10-21 22:46:44.605 C-GPS test[29893:961718] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Data/Application/72917B85-4DAD-40BD-8FAF-1D53F4986672/Library/Cookies/Cookies.binarycookies
+2014-10-21 22:46:44.702 C-GPS test[29893:961718] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 22:46:44.702 C-GPS test[29893:961718] Multi-tasking -> Device: YES, App: YES
+2014-10-21 22:46:44.707 C-GPS test[29893:961718] Unlimited access to network resources
+2014-10-21 22:46:44.711 C-GPS test[29893:961718] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 22:46:45.047 C-GPS test[29893:961718] Resetting plugins due to page load.
+2014-10-21 22:46:45.098 C-GPS test[29893:961718] Finished load of: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Bundle/Application/3BDD07CB-4E8A-41FD-8C05-2918DBDEFC16/C-GPS%20test.app/www/index.html
+2014-10-21 22:47:17.971 C-GPS test[29966:962306] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Data/Application/826841C9-B85A-45FC-A656-4A0AD7D5F01E/Library/Cookies/Cookies.binarycookies
+2014-10-21 22:47:18.296 C-GPS test[29966:962306] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 22:47:18.297 C-GPS test[29966:962306] Multi-tasking -> Device: YES, App: YES
+2014-10-21 22:47:18.301 C-GPS test[29966:962306] Unlimited access to network resources
+2014-10-21 22:47:18.306 C-GPS test[29966:962306] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 22:47:18.975 C-GPS test[29966:962306] Resetting plugins due to page load.
+2014-10-21 22:47:19.216 C-GPS test[29966:962306] Finished load of: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Bundle/Application/18E87635-D42B-4067-891F-9FD569DC1768/C-GPS%20test.app/www/index.html
+2014-10-21 22:48:16.788 C-GPS test[30037:963190] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Data/Application/B855DB80-907A-4469-AA4A-1061C395E565/Library/Cookies/Cookies.binarycookies
+2014-10-21 22:48:16.947 C-GPS test[30037:963190] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 22:48:16.948 C-GPS test[30037:963190] Multi-tasking -> Device: YES, App: YES
+2014-10-21 22:48:16.952 C-GPS test[30037:963190] Unlimited access to network resources
+2014-10-21 22:48:16.961 C-GPS test[30037:963190] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 22:48:17.560 C-GPS test[30037:963190] Resetting plugins due to page load.
+2014-10-21 22:48:17.629 C-GPS test[30037:963190] Finished load of: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Bundle/Application/8C3E7EDF-ED37-47E5-98C2-31C789AD0C44/C-GPS%20test.app/www/index.html
+2014-10-21 22:49:18.275 C-GPS test[30114:964014] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Data/Application/89342B17-5468-48A9-9A15-37543431DE77/Library/Cookies/Cookies.binarycookies
+2014-10-21 22:49:18.429 C-GPS test[30114:964014] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-21 22:49:18.429 C-GPS test[30114:964014] Multi-tasking -> Device: YES, App: YES
+2014-10-21 22:49:18.434 C-GPS test[30114:964014] Unlimited access to network resources
+2014-10-21 22:49:18.437 C-GPS test[30114:964014] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-21 22:49:18.750 C-GPS test[30114:964014] Resetting plugins due to page load.
+2014-10-21 22:49:18.832 C-GPS test[30114:964014] Finished load of: file:///Users/edsakabu/Library/Developer/CoreSimulator/Devices/1609463D-E567-4AA2-9EA0-1557CCA7AAA5/data/Containers/Bundle/Application/5725C973-FAA6-4F94-9F52-D873D472465C/C-GPS%20test.app/www/index.html
+2014-10-21 22:49:52.215 C-GPS test[30114:964660] Terminating since there is no system app.
+2014-10-21 22:49:52.227 C-GPS test[30114:964741] BSXPCMessage received error for message: Connection invalid
